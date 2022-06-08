@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: 
-Sitemap: http://bytehonor.com/sitemap.xml
+Sitemap: https://digithedge.com/sitemap.xml
